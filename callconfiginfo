@@ -1,0 +1,47 @@
+{   
+    "delay"   : 04000,
+    "note"    : "@BugFreeNet کاربر گرامی این اپلیکیشن توسط چنل باگ فرmozی نت مود شده است لطفاً برای حمایت از ما داخل آن عضو شوید",
+    "configs" : [
+		{
+		    "id"          : 1,
+                    "symbol"      : "US",
+                    "countryName" : "All Service 1",
+                    "ping"        : 0,
+                    "config"      : "vless://8604f7c5-01a3-436c-a607-c74c6e4eedb9@185.146.173.169:2095?path=%2Fdownloader%2F18776%3Fed%3D2048&security=none&encryption=none&host=Sodtserver.ir.m.Benz500s.coM&type=ws#%40BUGFREENET+ALL"
+                },
+		{
+		    "id"          : 2,
+                    "symbol"      : "US",
+                    "countryName" : "All Service 2",
+                    "ping"        : 0,
+                    "config"      : "vless://2045c57a-cf8e-4952-b912-a33d4fa66c6a@185.146.173.169:2095?path=%2Fdownloader%2F18776%3Fed%3D2048&security=none&encryption=none&host=v11.speedydatabaseserver.com&type=ws#%40BUGFREENET+ALL"
+ 
+                },
+		{
+		    "id"          : 3,
+                    "symbol"      : "US",
+                    "countryName" : "All Service 3",
+                    "ping"        : 0,
+                    "config"      : "vless://657df422-fa7a-4c2b-b81b-ff4ca4f641a4@185.146.173.169:8880?path=%2Fdownloader%2F18776%3Fed%3D2048&security=none&encryption=none&host=Telewebion.com.E1m1c11.coM.&type=ws#%40BUGFREENET+ALL"
+                },
+       {
+		    "id"          : 4,
+                    "symbol"      : "US",
+                    "countryName" : "All Service 4",
+                    "ping"        : 0,
+                    "config"      : "vless://dcd20677-09e6-4008-a666-a4d96e021601@185.146.173.169:2095?path=%2Fdownloader%2F18776%3Fed%3D2048&security=none&encryption=none&host=Sodtserver.ir.m.Benz500s.coM&type=ws#%40BUGFREENET+ALL"
+                },
+		{
+		   
+                    
+		    "id"          : 5,
+                    "symbol"      : "DE",
+                    "countryName" : "All Service 5",
+                    "ping"        : 0,
+                    "config"      : "vless://8604f7c5-01a3-436c-a607-c74c6e4eedb9@185.146.173.169:2095?path=%2Fdownloader%2F18776%3Fed%3D2048&security=none&encryption=none&host=Sodtserver.ir.m.Benz500s.coM&type=ws#%40BUGFREENET+ALL" 
+                }
+	
+		
+   ]
+   
+}￼Enter
